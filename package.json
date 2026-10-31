@@ -1,5 +1,5 @@
 {
-  "name": "oceanguard-challenge",
+  "name": "taskflow-challenge",
   "private": true,
   "version": "1.0.0",
   "type": "module",
@@ -10,10 +10,12 @@
   },
   "dependencies": {
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "tailwindcss": "^4.1.11"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.3.4",
-    "vite": "^5.4.11"
+    "vite": "^5.4.11",
+    "@tailwindcss/vite": "^4.1.11"
   }
 }

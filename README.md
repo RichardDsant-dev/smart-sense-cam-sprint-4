@@ -1,6 +1,6 @@
 # Challenge – Smart Sense Cam (Sprint 04)
 
-Equipe OceanGuard — FIAP 2026
+Equipe TaskFlow — FIAP 2026
 
 Landing page da Sprint 03 integrada ao React (Vite).
 
